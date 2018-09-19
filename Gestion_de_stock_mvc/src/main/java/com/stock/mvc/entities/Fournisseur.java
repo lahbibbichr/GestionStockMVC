@@ -25,7 +25,7 @@ public class Fournisseur implements Serializable{
 	
 	public Fournisseur() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public Long getIdFournisseur() {

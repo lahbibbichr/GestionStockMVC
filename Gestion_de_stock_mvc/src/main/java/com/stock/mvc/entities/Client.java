@@ -33,7 +33,7 @@ public class Client implements Serializable{
 
 	public Client() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public Long getIdClient() {
